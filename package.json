@@ -2,11 +2,10 @@
   "name": "learn-restify",
   "version": "1.0.0",
   "description": "",
-  "main": "functions/server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build": "netlify-lambda build express"
   },
   "author": "",
   "license": "ISC",
